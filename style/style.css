@@ -1,0 +1,12 @@
+button {
+  cursor: pointer;
+}
+
+h1 {
+  margin: 20px 0;
+}
+
+.center-full-width {
+  text-align: center;
+  width: 100%;
+}
