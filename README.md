@@ -11,3 +11,6 @@ Install dependencies, then start Webpack dev server:
 ```
 
 Then go to <http://localhost:3000>.
+
+
+Code based off LearnCode's [MobX video tutorial](https://www.youtube.com/watch?v=_q50BXqkAfI).
